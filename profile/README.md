@@ -1,8 +1,8 @@
 # MISIDE
 
-![MISIDE Logo](/assets/header.webp) 
+![MISIDE Logo](/assets/header.png) 
 
-## Welcome to the World of ATLYSS
+## Welcome to the World of MISIDE
 
 [MISIDE](https://miside.shop/) is an immersive single-player/online RPG where players venture beyond the safe haven of Sanctum into lands corrupted by the mysterious Shattering. Developed by Kiseff and published by KisSoft, ATLYSS combines classic RPG elements with modern gameplay mechanics, all wrapped in a charming low-poly aesthetic. 
 
@@ -30,7 +30,7 @@
 
 ### 🎯 What's Next
 
-The development team is actively working on expanding ATLYSS with:
+The development team is actively working on expanding MISIDE with:
 - Two additional over-world zones
 - Four new dungeons
 - Class advancement system
@@ -44,4 +44,4 @@ The development team is actively working on expanding ATLYSS with:
 
 ---
 
-*ATLYSS is more than just a game - it's an adventure waiting to be discovered. Join us as we continue to build and expand this unique world together!*
+*MISIDE is more than just a game - it's an adventure waiting to be discovered. Join us as we continue to build and expand this unique world together!*
